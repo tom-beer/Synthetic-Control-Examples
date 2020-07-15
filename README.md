@@ -1,6 +1,6 @@
 <img src="logo.png" width=125 height=125 align="right">
 
-# Synthetic-Control-Examples
+# Synthetic Control Examples
 Step by step Python code for applying synthetic control to interesting use cases
 
 This repo will contain many examples for using the synthetic control method in diverse domains.
