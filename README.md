@@ -1,4 +1,4 @@
-<img src="logo.png" width=125 height=125 align="right">
+<img src="logo2.png" width=125 height=125 align="right">
 
 # Synthetic Control Examples
 Step by step Python code for applying synthetic control to interesting use cases
