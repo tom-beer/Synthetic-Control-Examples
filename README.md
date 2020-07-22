@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/tom-beerSynthetic-Control-Examples?color=magenta&style=plastic)
+![](https://img.shields.io/github/license/tom-beer/Synthetic-Control-Examples?color=magenta&style=plastic)
 
 <img src="logo2.png" width=125 height=125 align="right">
 
@@ -14,5 +14,5 @@ Data sources:
 - 'smoking.rda' taken from https://github.com/johnson-shuffle/mixtape/tree/master/data
 - 'prop99.csv' taken from https://github.com/jehangiramjad/tslib/tree/master/tests/testdata
 
-
+---
 logo created by [Ragal Kartidev](https://thenounproject.com/search/?q=graph%20two%20lines&i=1725936) from Noun Project
