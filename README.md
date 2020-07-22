@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/tom-beer/Synthetic-Control-Examples?color=magenta&style=plastic)
 
-<img src="logo2.png" width=125 height=125 align="right">
+<img src="Images/logo.png" width=125 height=125 align="right">
 
 # Synthetic Control Examples
 Step by step Python code for applying synthetic control to interesting use cases
