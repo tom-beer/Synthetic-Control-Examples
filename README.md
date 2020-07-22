@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/tom-beerSynthetic-Control-Examples?color=magenta&style=plastic)
+
 <img src="logo2.png" width=125 height=125 align="right">
 
 # Synthetic Control Examples
