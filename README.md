@@ -18,10 +18,10 @@ Meanwhile, these are the implemented examples:
     **The notebook goes through all preprocessing and processing steps to yields the figures just like in the original 2010 paper:**
     
     
-    <img src="Images/prop99_figure2.png" width=800 height=600 align="left">
+    <img src="Images/prop99_figure2.png" width=700 height=500 align="middle">
+    
+    <img src="Images/prop99_figure3.png" width=700 height=500 align="middle">
 
-
-<br>
 ---
 
 
