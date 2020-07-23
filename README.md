@@ -3,7 +3,7 @@
 <img src="Images/logo.png" width=125 height=125 align="right">
 
 # Synthetic Control Examples
-Step by step Python code for applying synthetic control to interesting use cases
+**Step by step Python code for applying synthetic control to interesting use cases**
 
 This repo will contain many examples for using the synthetic control method in diverse domains.
 Meanwhile, these are the implemented examples:
@@ -15,7 +15,7 @@ Meanwhile, these are the implemented examples:
       - 'smoking.rda' taken from https://github.com/johnson-shuffle/mixtape/tree/master/data
       - 'prop99.csv' taken from https://github.com/jehangiramjad/tslib/tree/master/tests/testdata
 
-    **The notebook goes through all preprocessing and processing steps to yields the figures just like in the original 2010 paper:**
+    **The notebook goes through all preprocessing and processing steps to yield the figures just like in the original 2010 paper:**
     
     
     <img src="Images/prop99_figure2.png" width=700 height=500 align="middle">
